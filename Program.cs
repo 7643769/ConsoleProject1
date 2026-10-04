@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("控制台相关");
-            //Console.WriteLine("123123");
+            Console.WriteLine("123123");
             //string str = Console.ReadLine();
             //char c = Console.ReadKey(true).KeyChar;
             //控制台其他方法
