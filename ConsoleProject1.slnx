@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../ConsoleRandom/ConsoleRandom.csproj" Id="792c238c-c92f-4f8e-8497-2cfd7aaf155a" />
   <Project Path="ConsoleProject1.csproj" />
 </Solution>
